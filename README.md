@@ -1,5 +1,4 @@
-Note: for an unknow error, this is a innocent virus. the problem is the converter.
-if you want to use this, disable the virus protection.
+i didn't removed the "Virus" but finally my PC doesn't say 'This is a "Virus" ' anymore, making me unlock this. no more issues to myself!
 # Time
 .cmd file converted to .exe used to know the time
 ## This file is secure and not dangerous and you don't need to delete anything
